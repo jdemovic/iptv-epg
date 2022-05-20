@@ -1,170 +1,170 @@
-13tv: 13 Ulica
-360TuneBox: 360TuneBox
-AMC: AMC
-AnimalPlanet UK: Animal Planet
-AnimalPlanet: Animal Planet
-ArcadiaTV: Arcadia world
-Arena Sport 1: Arena Sport 1
-Arena Sport 2: Arena Sport 2
-Auto Motor Sport: Auto Motor und Sport Channel
-AXN Black: AXN Black
-AXN White: AXN White
-AXN: AXN
-Babes TV: Babes TV
-Baby TV: Baby TV
-Barrandov Krimi: Krimi Barrandov
-Barrandov: TV Barrandov
-BBC Czech: BBC Earth
-BBC World News: BBC WORLD NEWS
-Brazzers TV Europe: Brazzers
-Cartoon Network: Cartoon Network
-Cinemax 2: Cinemax 2
-Cinemax: Cinemax
-CNN International: CNN
-CNN Prima News: CNN Prima News
-Comedy Central: Comedy Central
-Crime and Investigation: Crime+Investigation Polsat
-CS Film: CS Film
-CS Horror: CS Horror
-CS Mystery: CS Mystery
-ČT :D: ČT :D HD / ČT art
-ČT art: CT Decko
-ČT1: ČT1
-ČT2: ČT2
-ČT24: ČT24
-ČT3: ČT3
-ČT4 Sport: ČT Sport
-Discovery Science: Discovery Science
-Discovery: Discovery
-Disney Channel: Disney Channel
-Disney Junior: Disney Junior
-DocuBox HD: DocuBox
-Doma: Doma
-Dorcel TV: Dorcel TV
-Dorcel XXX: Dorcel XXX
-Erox HD: Erox
-Eroxxx HD: Eroxxx
-Eurosport 1: Eurosport 1
-Eurosport 2: Eurosport 2
-Extasy: Extasy
-Extreme Sports: Extreme Sports Channel
-Fast&Funbox HD: Fastnfunbox
-FightBox: Fightbox
-Film Europe +: Film Europe +
-Film Europe: Film Europe
-Film+: Film+
-Filmbox Extra HD: Filmbox Extra
-Filmbox Family: Filmbox Family
-Filmbox Premium: Filmbox Premium
-Filmbox Stars: FilmBox Stars
-Filmbox: Filmbox
-Fokus TV: Fokus TV
-FOX: FOX
-France24: France 24
-Golf Channel: Golf Channel
-HBO: HBO
-HBO2: HBO2
-HBO3: HBO3
-History Channel: History Channel
-Chuck TV: Chucktv
-iConcerts: iConcerts
-Investigation Discovery: Investigation Discovery
-Jim Jam: JimJam
-JOJ Cinema: JoJ Cinema
-JOJ Family: JoJ Family
-JOJ Plus: JoJ Plus
-JOJ Šport: JoJ Šport
-JOJ: JoJ
-Jojko: Jojko
-Kino Barrandov: Kino Barrandov
-Kino Polska: Kino Polska
-Kino TV: Kino TV
-Lala TV: LALA TV
-Leo TV Gold: Leo Gold
-Leo: Leo TV
-Love Nature: Love Nature
-Markíza International: Markíza International
-Markíza: Markiza
-Mezzo: Mezzo HD
-Mini TV: MiniMini+
-Minimax: Minimax
-MTV Hits: MTV Hits
-MTV: MTV
-MTV00s: MTV 00s
-NASA TV: NASA TV
-National Geographic Wild: National Geographic Wild
-National Geographic: National Geographic
-Nick Jr.: NICK JR
-Nickelodeon: Nickelodeon
-Nicktoons: Nicktoons
-Nova Action: Nova Action
-Nova Cinema: Nova Cinema
-Nova Fun: Nova Fun
-Nova Gold: Nova Gold
-Nova International: Nova International
-Nova Lady: Nova Lady
-Nova Sport 1: Nova Sport 1
-Nova Sport 2: Nova Sport 2
-Nova Sport 3: Nova Sport 3
-Nova Sport 4: Nova Sport 4
-Nova: Nova
-O2 Sport: O2TV Sport
-O2TV Fotbal: O2TV Fotbal
-O2TV Sport5: O2TV Sport 5
-O2TV Sport6: O2TV Sport 6
-O2TV Tenis: O2TV Tenis
-Óčko Black: Ocko Black
-Óčko Expres: Óčko Expres
-Óčko Star: Óčko Star
-Óčko: Óčko
-ORF1: ORF 1
-ORF2: ORF 2
-Paramount Network: Paramount Netvork
-Playboy TV: Playboy TV
-Premier Sport 1: Premier Sports 1
-Premier Sport 2: Premier Sports 2
-Prima Cool: Prima COOL
-Prima Krimi: Prima Krimi
-Prima LOVE: Prima Love
-Prima MAX: Prima MAX
-Prima Show: Prima Show
-Prima Star: Prima Star
-Prima ZOOM: Prima ZOOM
-Prima: Prima
-Private TV: Private TV
-Reality Kings TV: Reality Kings
-Rebel: Rebel
-Redlight HD: Red Light
-RELAX: RELAX
-Retro Music: Retro Music TV
-Rik TV: Rik
-RTVS Šport: RTVS Šport
-Seznam.cz TV: TV Seznam
-Spektrum Home: Spektrum Home
-Spektrum: Spektrum
-Sport 5: Sport 5
-Sport1: Sport1
-Sport2: Sport2
-STV1: Jednotka
-STV2: Dvojka
-Šlágr 2: Šlágr 2
-Šlágr Premium: Šlágr Premium
-Šlágr: Šlágr TV
-TA3: TA3
-The Fishing and Hunting: Fishinghunting
-TLC: TLC
-TNT-Comedy: TNT
-Travel Channel: Travel Channel
-Travelxp HD: Travel XP
-Trojka: RTVS :24
-True Amateurs: True Amateurs
-TTV: TTV
-TV DAJTO: Dajto
-TV4: TV 4
-TV6: TV 6
-Viasat Explorer: Viasat Explore
-Viasat History: Viasat History
-Viasat Nature: Viasat Nature
-WAU: Wau
-ZDF: ZDF
-Zwei music: 1478
+13tv=13 Ulica
+360TuneBox=360TuneBox
+AMC=AMC
+AnimalPlanet UK=Animal Planet
+AnimalPlanet=Animal Planet
+ArcadiaTV=Arcadia world
+Arena Sport 1=Arena Sport 1
+Arena Sport 2=Arena Sport 2
+Auto Motor Sport=Auto Motor und Sport Channel
+AXN Black=AXN Black
+AXN White=AXN White
+AXN=AXN
+Babes TV=Babes TV
+Baby TV=Baby TV
+Barrandov Krimi=Krimi Barrandov
+Barrandov=TV Barrandov
+BBC Czech=BBC Earth
+BBC World News=BBC WORLD NEWS
+Brazzers TV Europe=Brazzers
+Cartoon Network=Cartoon Network
+Cinemax 2=Cinemax 2
+Cinemax=Cinemax
+CNN International=CNN
+CNN Prima News=CNN Prima News
+Comedy Central=Comedy Central
+Crime and Investigation=Crime+Investigation Polsat
+CS Film=CS Film
+CS Horror=CS Horror
+CS Mystery=CS Mystery
+ČT :D=ČT :D HD / ČT art
+ČT art=CT Decko
+ČT1=ČT1
+ČT2=ČT2
+ČT24=ČT24
+ČT3=ČT3
+ČT4 Sport=ČT Sport
+Discovery Science=Discovery Science
+Discovery=Discovery
+Disney Channel=Disney Channel
+Disney Junior=Disney Junior
+DocuBox HD=DocuBox
+Doma=Doma
+Dorcel TV=Dorcel TV
+Dorcel XXX=Dorcel XXX
+Erox HD=Erox
+Eroxxx HD=Eroxxx
+Eurosport 1=Eurosport 1
+Eurosport 2=Eurosport 2
+Extasy=Extasy
+Extreme Sports=Extreme Sports Channel
+Fast&Funbox HD=Fastnfunbox
+FightBox=Fightbox
+Film Europe +=Film Europe +
+Film Europe=Film Europe
+Film+=Film+
+Filmbox Extra HD=Filmbox Extra
+Filmbox Family=Filmbox Family
+Filmbox Premium=Filmbox Premium
+Filmbox Stars=FilmBox Stars
+Filmbox=Filmbox
+Fokus TV=Fokus TV
+FOX=FOX
+France24=France 24
+Golf Channel=Golf Channel
+HBO=HBO
+HBO2=HBO2
+HBO3=HBO3
+History Channel=History Channel
+Chuck TV=Chucktv
+iConcerts=iConcerts
+Investigation Discovery=Investigation Discovery
+Jim Jam=JimJam
+JOJ Cinema=JoJ Cinema
+JOJ Family=JoJ Family
+JOJ Plus=JoJ Plus
+JOJ Šport=JoJ Šport
+JOJ=JoJ
+Jojko=Jojko
+Kino Barrandov=Kino Barrandov
+Kino Polska=Kino Polska
+Kino TV=Kino TV
+Lala TV=LALA TV
+Leo TV Gold=Leo Gold
+Leo=Leo TV
+Love Nature=Love Nature
+Markíza International=Markíza International
+Markíza=Markiza
+Mezzo=Mezzo HD
+Mini TV=MiniMini+
+Minimax=Minimax
+MTV Hits=MTV Hits
+MTV=MTV
+MTV00s=MTV 00s
+NASA TV=NASA TV
+National Geographic Wild=National Geographic Wild
+National Geographic=National Geographic
+Nick Jr.=NICK JR
+Nickelodeon=Nickelodeon
+Nicktoons=Nicktoons
+Nova Action=Nova Action
+Nova Cinema=Nova Cinema
+Nova Fun=Nova Fun
+Nova Gold=Nova Gold
+Nova International=Nova International
+Nova Lady=Nova Lady
+Nova Sport 1=Nova Sport 1
+Nova Sport 2=Nova Sport 2
+Nova Sport 3=Nova Sport 3
+Nova Sport 4=Nova Sport 4
+Nova=Nova
+O2 Sport=O2TV Sport
+O2TV Fotbal=O2TV Fotbal
+O2TV Sport5=O2TV Sport 5
+O2TV Sport6=O2TV Sport 6
+O2TV Tenis=O2TV Tenis
+Óčko Black=Ocko Black
+Óčko Expres=Óčko Expres
+Óčko Star=Óčko Star
+Óčko=Óčko
+ORF1=ORF 1
+ORF2=ORF 2
+Paramount Network=Paramount Netvork
+Playboy TV=Playboy TV
+Premier Sport 1=Premier Sports 1
+Premier Sport 2=Premier Sports 2
+Prima Cool=Prima COOL
+Prima Krimi=Prima Krimi
+Prima LOVE=Prima Love
+Prima MAX=Prima MAX
+Prima Show=Prima Show
+Prima Star=Prima Star
+Prima ZOOM=Prima ZOOM
+Prima=Prima
+Private TV=Private TV
+Reality Kings TV=Reality Kings
+Rebel=Rebel
+Redlight HD=Red Light
+RELAX=RELAX
+Retro Music=Retro Music TV
+Rik TV=Rik
+RTVS Šport=RTVS Šport
+Seznam.cz TV=TV Seznam
+Spektrum Home=Spektrum Home
+Spektrum=Spektrum
+Sport 5=Sport 5
+Sport1=Sport1
+Sport2=Sport2
+STV1=Jednotka
+STV2=Dvojka
+Šlágr 2=Šlágr 2
+Šlágr Premium=Šlágr Premium
+Šlágr=Šlágr TV
+TA3=TA3
+The Fishing and Hunting=Fishinghunting
+TLC=TLC
+TNT-Comedy=TNT
+Travel Channel=Travel Channel
+Travelxp HD=Travel XP
+Trojka=RTVS :24
+True Amateurs=True Amateurs
+TTV=TTV
+TV DAJTO=Dajto
+TV4=TV 4
+TV6=TV 6
+Viasat Explorer=Viasat Explore
+Viasat History=Viasat History
+Viasat Nature=Viasat Nature
+WAU=Wau
+ZDF=ZDF
+Zwei music=1478
